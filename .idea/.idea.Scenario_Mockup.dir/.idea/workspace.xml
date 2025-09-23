@@ -6,14 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ee625ce6-a9a3-4e4e-84a2-f4d9d3baf8e1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/Content/AnimeStyleHome/Map/dEMO2.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AnimeStyleHome/Map/dEMO2.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Cartoon_City_Free/Maps/Demonstration.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Cartoon_City_Free/Maps/Demonstration.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Mats/CelShadingMAT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mats/CelShadingMAT.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/MyChar/ABP_Natsuko.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MyChar/ABP_Natsuko.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/MyChar/Natsuko_Blendspace.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MyChar/Natsuko_Blendspace.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/MyChar/Pudtan/Animation/Pudtan_Rig_Run_Cycle_1_Anim.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MyChar/Pudtan/Animation/Pudtan_Rig_Run_Cycle_1_Anim.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter3.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter3.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Widget/WBP_Win.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Widget/WBP_Win.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +57,7 @@
       <workItem from="1757924749392" duration="207000" />
       <workItem from="1757928762037" duration="43000" />
       <workItem from="1758515230579" duration="43000" />
+      <workItem from="1758599279627" duration="272000" />
     </task>
     <servers />
   </component>
