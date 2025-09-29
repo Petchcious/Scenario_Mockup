@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee625ce6-a9a3-4e4e-84a2-f4d9d3baf8e1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/Snake/NewSnake/ABP_NewSnake.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Snake/NewSnake/ABP_NewSnake.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Snake/NewSnake/BP_NewSnake.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Snake/NewSnake/BP_NewSnake.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Snake/NewSnake/NewSnake_Attack_Montage1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Snake/NewSnake/NewSnake_Attack_Montage1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AnimeStyleHome/Map/HouseMap_2.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AnimeStyleHome/Map/HouseMap_2.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AnimeStyleHome/Map/Houses/L_AnimeStyleHome_3.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AnimeStyleHome/Map/Houses/L_AnimeStyleHome_3.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/BP_Elevator.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/BP_Elevator.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacterDefault1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacterDefault1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Widget/Elevetor/WBP_Smash.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Widget/Elevetor/WBP_Smash.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +63,7 @@
       <workItem from="1758515230579" duration="43000" />
       <workItem from="1758599279627" duration="272000" />
       <workItem from="1758699682180" duration="34000" />
+      <workItem from="1759132785691" duration="81000" />
     </task>
     <servers />
   </component>
